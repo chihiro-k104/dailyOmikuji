@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dailyOmikuji</string>
+    <string name="btnhiku">引く</string>
+    <string name="btnclear">クリア</string>
+    <string name="btnsubH">引く</string>
+    <string name="btn_sub_c">クリア</string>
+</resources>
